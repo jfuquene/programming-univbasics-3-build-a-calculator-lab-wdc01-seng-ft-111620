@@ -17,7 +17,7 @@ end
 def division(num1, num2)
   puts "#{num1}"
   puts "#{num2}"
-  divison = num1 / num2 
+  division = num1 / num2 
   puts = division 
   division 
 
