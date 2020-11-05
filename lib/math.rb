@@ -20,11 +20,14 @@ def division(num1, num2)
   division = num1 / num2 
   puts = division 
   division 
-
 end
 
 def multiplication(num1, num2)
-
+  puts "#{num1}"
+  puts "#{num2}"
+  multiply = num1 * num2
+  puts multiply 
+  multiply
 end
 
 def modulo(num1, num2)
